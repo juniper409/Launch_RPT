@@ -3,15 +3,8 @@ import json
 
 response = requests.get('https://lldev.thespacedevs.com/2.2.0/launch/upcoming/')
 
-number = input("List number: ")
-number = int(number)
-
-#Retrieves the needed info from the API and assigns variable.
-name = response.json()['results'][number]['name']
-date = response.json()['results'][number]['net']
-location = response.json()['results'][number]['pad']['name']
-launch_description = response.json()['results'][number]['mission']['description']
 status = response.status_code
+x = 0
 
 #Gives error code if the connection fails.
 if status != 200:
@@ -19,7 +12,20 @@ if status != 200:
 else:
     pass
 
-#Print Data
-print(f'----- {name} -----')
-print(f'Launch Date & Time: {date}')
-print(f'From: {location}')
+while x <= 10:
+    #Retrieves the needed info from the API and assigns variable.
+    name = response.json()['results'][x]['name']
+    date = response.json()['results'][x]['net']
+    location = response.json()['results'][x]['pad']['name']
+    launch_description = response.json()['results'][x]['mission']['description']
+    
+    #Print Data
+    print(f'----- {name} -----')
+    print(f'Launch D&T: {date}')
+    print(f'From: {location}')
+    print()
+    x += 1
+    if x == 10:
+        break
+    
+        
