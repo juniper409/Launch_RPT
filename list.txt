@@ -1,0 +1,560 @@
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
+----- H3-22 | ALOS-3 (Maiden flight) -----
+Launch D&T: 2023-02-13T01:37:55Z
+From: Yoshinobu Launch Complex
+
+----- Falcon 9 Block 5 | Inmarsat-6 F2 -----
+Launch D&T: 2023-02-18T00:00:00Z
+From: Unknown Pad
+
+----- Soyuz 2.1a | Soyuz MS-23 -----
+Launch D&T: 2023-02-20T01:57:00Z
+From: 31/6
+
+----- Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight) -----
+Launch D&T: 2023-02-25T00:00:00Z
+From: Space Launch Complex 41
+
+----- Falcon 9 Block 5 | Crew-6 -----
+Launch D&T: 2023-02-26T07:07:00Z
+From: Launch Complex 39A
+
+----- Falcon 9 Block 5 | Starlink Group 2-2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Terran 1 | Good Luck, Have Fun (Maiden Flight) -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Launch Complex 16
+
+----- Falcon 9 Block 5 | Starlink Group 6-1 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Unknown Pad
+
+----- Falcon 9 Block 5 | WorldView Legion 1 & 2 -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 40
+
+----- Firefly Alpha | Flight Three -----
+Launch D&T: 2023-02-28T00:00:00Z
+From: Space Launch Complex 2W
+
