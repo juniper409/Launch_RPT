@@ -23,6 +23,6 @@ table.add_column("Status", justify="center", style="blue", no_wrap="False")
 #Rows of the table
 table.add_row(name, location, date + time, 'GO')
 
-
+print("Hello")
 console = Console()
 console.print(table)
