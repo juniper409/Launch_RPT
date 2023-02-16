@@ -30,18 +30,29 @@ else:
 while x <= 10:
     #Retrieves the needed info from the API and assigns variable.
     name = response.json()['results'][x]['name']
-    date = response.json()['results'][x]['net']
+    launch_dt = response.json()['results'][x]['net']
     location = response.json()['results'][x]['pad']['name']
     launch_description = response.json()['results'][x]['mission']['description']
-        
+    year = int(launch_dt[0:4])
+    month = int(launch_dt[5:7])
+    day = int(launch_dt[8:10])
+    hour = int(launch_dt[12:13])
+    minute = int(launch_dt[15:16])
+    second = int(launch_dt[18:19])
+    date_form = datetime.datetime(year, month, day)
+    time_form = datetime.time(hour, minute, second)
+    ldate = date_form.strftime('%B %d,%Y')
+    ltime = time_form
+    
+   
     #Print Data
     f.write(f'----- {name} -----\n')
-    f.write(f'Launch D&T: {date}\n')
+    f.write(f'Launch D&T: {ldate} @ {ltime} UTC\n')
     f.write(f'From: {location}\n')
     f.write("\n")
     x += 1
     if x == 10:
         f.close()
         break
-if file_check == True:
-    print("REPORT CREATION COMPLETE")
+#if file_check == True:
+    #print("REPORT CREATION COMPLETE")
