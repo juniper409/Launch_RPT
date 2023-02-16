@@ -2,7 +2,6 @@ import datetime
 import json
 from time import time_ns
 import requests
-
 time_now = datetime.datetime.now()
 #print(time_now.strftime('Today is %B %d, %Y'))
 response = requests.get('https://lldev.thespacedevs.com/2.2.0/launch/upcoming/')
