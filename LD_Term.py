@@ -18,7 +18,7 @@ table = Table(title='Launch Schedule')
 table.add_column("Launch", justify="left", style="blue", no_wrap="False")
 table.add_column("Location", justify="left", style="blue", no_wrap="False")
 table.add_column("Date/Time", justify="left", style="blue", no_wrap="False")
-table.add_column("Status", justify="left", style="blue", no_wrap="False")
+table.add_column("Status", justify="left", style="blink bold green", no_wrap="False")
 
 #Rows of the table
 while x <= 10:
