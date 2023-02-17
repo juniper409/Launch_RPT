@@ -2,12 +2,17 @@
 This program prints out upcoming launches through the terminal with the option to print to a text file.
 
 """
-import requests, datetime
+import requests, datetime, os
 from rich.table import Table
 from rich.console import Console
 x=0
 response = requests.get('https://lldev.thespacedevs.com/2.2.0/launch/upcoming/')
 console = Console()
+
+#Clear console before execution.
+os.system('cls' if os.name == 'nt' else 'clear')
+
+
 #Create Columns in the table.
 table = Table(title='Launch Schedule')
 table.add_column("Launch", justify="left", style="blue", no_wrap="False")
