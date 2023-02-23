@@ -20,13 +20,15 @@ table.add_column("Location", justify="left", style="blue", no_wrap="False")
 table.add_column("Date/Time", justify="left", style="blue", no_wrap="False")
 table.add_column("Status", justify="left", style="blink bold green", no_wrap="False")
 
+
+
 #Rows of the table
 while x <= 10:
     #Retrieves the needed info from the API and assigns variable.
     name = response.json()['results'][x]['name']
     launch_dt = response.json()['results'][x]['net']
     location = response.json()['results'][x]['pad']['name']
-    launch_description = response.json()['results'][x]['mission']['description']
+    #launch_description = response.json()['results'][x]['mission']['description']
     year = int(launch_dt[0:4])
     month = int(launch_dt[5:7])
     day = int(launch_dt[8:10])
