@@ -1,29 +1,42 @@
 import tkinter as tk
 from tkinter import ttk
+from tkinter import scrolledtext
 
 root = tk.Tk()
 root.geometry("700x500")
 root.title("Launch Report")
 
 #Whole window frame
-frame = tk.Frame(root)
+frame = ttk.Frame(root)
 
+#Top Frame
+select_frame = ttk.Frame(root)
+select_frame.pack(side="top")
+
+#Bottom Frame
+bottom_frame = ttk.Frame(root)
+bottom_frame.pack(side="bottom")
 
 #Generate Button
-submit_button=tk.Button(root, text="Submit")
-submit_button.grid(row=0, column=4)
+submit_button=ttk.Button(select_frame, text="Submit")
+submit_button.grid(row=0, column=1)
 
 #Exit Button
-exit_button=tk.Button(root, text="EXIT")
-exit_button.grid(row=4, column=3)
-
-#Save Button
-Export_button = tk.Button(root, text="EXPORT")
-Export_button.grid(row=4, column=2)
+exit_button=ttk.Button(bottom_frame, text="EXIT")
+exit_button.grid(row=3, column =1)
 
 #Company Drop Down Menu
-company_menu = ttk.Combobox(root, values=["ALL","SpaceX", "ULA", "NASA", "RocketLab", "Something"])
+company_menu = ttk.Combobox(select_frame, values=["ALL","SpaceX", "ULA", "NASA", "RocketLab", "Astra", "Firefly", "Blue Origin", "Relitivity Space","Northrop Grumman"])
 company_menu.grid(row=0, column=0)
+
+#Mid Frame (Content)
+mid_frame = ttk.Frame(root)
+mid_frame.pack(side="top")
+
+#Content Area
+content_area = scrolledtext.ScrolledText(mid_frame, height=20, width=60, padx=2, pady=2)
+content_area.grid(row=3, column=1)
+
 
 
 #Ends the program
